@@ -15,6 +15,7 @@ multivariate normal density
 *    logd: log the results
 
 ##rMvn.cpp
+random draws from multivariate normal
 *   n: number of random draws 
 *   mu: vector of means
 *   sigma: covariance matrix
